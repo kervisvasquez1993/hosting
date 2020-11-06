@@ -268,7 +268,7 @@ img {
     }
     .menu{
         position: fixed;
-        top: 75px;
+        top: 60px;
         left: -100%;
         display: block;
         padding: 100px 50px;
